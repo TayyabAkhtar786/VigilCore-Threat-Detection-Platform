@@ -134,10 +134,7 @@ This project demonstrates:
 - For production use, more sophisticated detection methods would be required
 - All algorithms are implemented from scratch without external libraries
 
-## License
 
-Educational Project - DAA Course
-Approved by TAYYAB AKHTAR CEO OF CYBERLEGEND
 
 
 
