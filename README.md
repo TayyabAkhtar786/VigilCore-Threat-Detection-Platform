@@ -86,6 +86,16 @@ src/
    ```
 
    Or simply run `VigilCoreGUI.java` from your IDE.
+## Screenshots
+<img width="959" height="505" alt="Screenshot 2026-09-30 154515" src="https://github.com/user-attachments/assets/dc74a4db-f39b-4fc6-b866-ca231afc6a6d" />
+
+<img width="959" height="502" alt="Screenshot 2026-09-30 154821" src="https://github.com/user-attachments/assets/b42a18ca-303e-4a12-9a6e-3c5ab2058847" />
+
+<img width="957" height="503" alt="Screenshot 2026-09-30 154855" src="https://github.com/user-attachments/assets/304764ae-f192-4e14-b784-e7ae0689b993" />
+
+<img width="960" height="503" alt="Screenshot 2026-09-30 154918" src="https://github.com/user-attachments/assets/bc07ac3e-9944-4dd5-884d-b93a8d957cae" />
+
+
 
 ## Usage
 
