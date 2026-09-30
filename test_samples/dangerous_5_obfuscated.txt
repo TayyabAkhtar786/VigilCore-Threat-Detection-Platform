@@ -1,0 +1,9 @@
+This file contains obfuscated JavaScript code used in malicious scripts.
+
+eval(base64_decode("cG93ZXJzaGVsbCAtbm9wIC13IGhpZGRlbiAtZQ=="))
+
+The code also uses character code obfuscation:
+String.fromCharCode(112, 111, 119, 101, 114, 115, 104, 101, 108, 108)
+
+This obfuscation is commonly used to hide malicious payloads from detection.
+

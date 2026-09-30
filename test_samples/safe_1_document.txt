@@ -1,0 +1,16 @@
+This is a completely safe document file.
+
+It contains normal text content that you would find in any regular document.
+No malicious code or suspicious patterns are present here.
+
+This file is safe for use and should not trigger any security warnings.
+You can use this file for normal document processing tasks.
+
+Some normal content about computer systems:
+- Windows operating system
+- PowerShell is a useful administration tool
+- Command prompt (cmd.exe) is a standard Windows feature
+- Registry is used to store system configuration
+
+All of these are legitimate system components and should not be flagged.
+

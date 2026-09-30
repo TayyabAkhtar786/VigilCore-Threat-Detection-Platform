@@ -1,0 +1,8 @@
+This file contains the EICAR test virus signature.
+This is a standard antivirus test file used to verify scanner functionality.
+
+X5O!P%@AP[4\PZX54(P^)7CC)7}$
+
+This signature is recognized by all antivirus software as a test file.
+It is harmless but should be detected by security scanners.
+
